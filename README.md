@@ -12,7 +12,7 @@ This project analyzes coffee sales data using Python. It cleans the dataset, cal
   - Sales trends over time (line chart)
 
 ## Requirements
-- Python 3.x
+- Python 3.11.9
 - Pandas
 - Matplotlib
 - Seaborn
