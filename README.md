@@ -17,14 +17,6 @@ This project analyzes coffee sales data using Python. It cleans the dataset, cal
 - Matplotlib
 - Seaborn
 
-## Usage
-1. Place your dataset (`DatasetForCoffeeSales.csv`) in the project folder.
-2. Run the script:
-   ```bash
-   python sales_analysis.py
-   ```
-3. View the generated charts for insights.
-
 ## Skills Utilized
 - Python scripting
 - Data wrangling with Pandas
